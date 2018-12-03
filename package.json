@@ -9,6 +9,11 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
+  "license": "MIT",
+  "repository": {
+    "url": "git@github.com:kylebarron/jupyterlab-stata-highlight.git",
+    "type": "git"
+  },
   "jupyterlab": {
     "extension": true
   },

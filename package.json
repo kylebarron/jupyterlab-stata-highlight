@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "jupyterlab-stata-highlight",
   "version": "0.1.0",
   "description": "Jupyterlab extension to highlight Stata syntax",

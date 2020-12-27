@@ -19,7 +19,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "@jupyterlab/codemirror": "^0.19.1"
+    "@jupyterlab/codemirror": "^3.0.0"
   },
   "devDependencies": {}
 }
